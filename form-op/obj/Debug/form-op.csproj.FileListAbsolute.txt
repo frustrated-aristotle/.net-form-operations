@@ -1,0 +1,11 @@
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\bin\Debug\form-op.exe.config
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\bin\Debug\form-op.exe
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\bin\Debug\form-op.pdb
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.csproj.AssemblyReference.cache
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.csproj.SuggestedBindingRedirects.cache
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form_op.Form1.resources
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form_op.Properties.Resources.resources
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.csproj.GenerateResource.cache
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.csproj.CoreCompileInputs.cache
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.exe
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.pdb
