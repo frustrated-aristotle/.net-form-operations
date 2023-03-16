@@ -16,21 +16,5 @@ namespace form_op
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();    
-        }
-
-
-        //As we can see, every form is basically a class. It's name is defined when you're creating it from Project window.
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Foram3 form3 = new Foram3();
-            form3.Show();
-            this.Hide();   
-        }
     }
 }
