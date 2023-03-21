@@ -22,6 +22,7 @@ namespace form_op
             if(textBoxUserName.Text == "admin" && textBoxPassword.Text == "1234" && textBoxCaptchaInput.Text == textBoxCaptcha.Text)
             {
                 Form2 secondForm = new Form2();
+                secondForm.userName = textBoxUserName.Text;
                 secondForm.ShowDialog();
                 this.Hide();
             }

@@ -9,3 +9,4 @@ C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.cspr
 C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.csproj.CoreCompileInputs.cache
 C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.exe
 C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form-op.pdb
+C:\Users\aristo\Desktop\.net\.net-form-operations\form-op\obj\Debug\form_op.Form2.resources

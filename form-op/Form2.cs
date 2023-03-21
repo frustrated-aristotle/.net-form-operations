@@ -16,5 +16,12 @@ namespace form_op
         {
             InitializeComponent();
         }
+
+        public string userName;
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            labelUserNameTXT.Text = userName;
+        }
     }
 }

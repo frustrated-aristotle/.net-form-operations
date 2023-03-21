@@ -58,7 +58,7 @@
             this.textBoxUserName.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
             this.textBoxUserName.Name = "textBoxUserName";
             this.textBoxUserName.Size = new System.Drawing.Size(212, 35);
-            this.textBoxUserName.TabIndex = 2;
+            this.textBoxUserName.TabIndex = 1;
             // 
             // label2
             // 
@@ -77,7 +77,7 @@
             this.textBoxPassword.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.Size = new System.Drawing.Size(212, 35);
-            this.textBoxPassword.TabIndex = 6;
+            this.textBoxPassword.TabIndex = 2;
             this.textBoxPassword.UseSystemPasswordChar = true;
             // 
             // checkBox1
@@ -96,7 +96,7 @@
             this.button1.Location = new System.Drawing.Point(263, 309);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(127, 35);
-            this.button1.TabIndex = 8;
+            this.button1.TabIndex = 4;
             this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -130,7 +130,7 @@
             this.textBoxCaptchaInput.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
             this.textBoxCaptchaInput.Name = "textBoxCaptchaInput";
             this.textBoxCaptchaInput.Size = new System.Drawing.Size(86, 35);
-            this.textBoxCaptchaInput.TabIndex = 11;
+            this.textBoxCaptchaInput.TabIndex = 3;
             // 
             // label4
             // 
